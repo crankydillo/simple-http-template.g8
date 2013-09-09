@@ -1,4 +1,4 @@
-simple-sbt-template
-===================
+simple-http-template.g8
+=======================
 
-SBT project template for a simple
+Simple HTTP g8 template (Apache HTTP Client 4.2.5 based)
